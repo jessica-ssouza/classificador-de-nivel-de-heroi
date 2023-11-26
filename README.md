@@ -1,7 +1,7 @@
 # desafio-dio
 **Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero.**
 
-# 1️⃣ Desafio Classificador de nível de Herói
+# 1️⃣ Desafio Classificador de Nível de Herói
 
 ## Conhecimentos aplicados
 
