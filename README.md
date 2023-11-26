@@ -3,7 +3,7 @@ Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
-**Conhecimentos aplicados**
+## Conhecimentos aplicados##
 
 - Variáveis: `nome, xp, nivel` 
 - Operadores lógicos: `&&`  
@@ -23,9 +23,7 @@ Se XP for entre 8.001 e 9.000 = Ascendente
 Se XP for entre 9.001 e 10.000= Imortal
 Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
-
-Ao final deve se exibir uma mensagem:
+**Ao final deve se exibir uma mensagem:**
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
  
