@@ -3,7 +3,7 @@ Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero
 
 # 1️⃣ Desafio Classificador de nível de Herói
 
-## Conhecimentos aplicados##
+## Conhecimentos aplicados
 
 - Variáveis: `nome, xp, nivel` 
 - Operadores lógicos: `&&`  
