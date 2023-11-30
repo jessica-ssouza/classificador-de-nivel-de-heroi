@@ -2,14 +2,6 @@
 **Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero utilizando a linguagem Javascript e o VS Code.**
 
 # 1️⃣ Desafio Classificador de Nível de Herói
-
-## Conhecimentos aplicados
-
-- Variáveis: `nome, xp, nivel` 
-- Operadores lógicos: `&&`  
-- Estruturas condicionais: `else, if else`
-- Funções: `console.log()`
-
 ## Objetivo
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
@@ -25,5 +17,12 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 **Ao final deve se exibir uma mensagem:**
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
+
+## Conhecimentos aplicados
+
+- Variáveis: `nome, xp, nivel` 
+- Operadores lógicos: `&&`  
+- Estruturas condicionais: `else, if else`
+- Funções: `console.log()`
 
  
