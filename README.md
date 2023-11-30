@@ -1,5 +1,5 @@
 # desafio-dio
-**Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero utilizando a linguagem Javascript e o VS Code.**
+**Desafio proposto pelo Bootcamp Potência Tech ifood-Programação do Zer/Dio utilizando a linguagem Javascript e o VS Code.**
 
 # 1️⃣ Desafio Classificador de Nível de Herói
 ## Objetivo
